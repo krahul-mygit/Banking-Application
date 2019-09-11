@@ -1,1 +1,1 @@
-# Bank-Project
+# FunBank
