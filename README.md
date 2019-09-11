@@ -4,7 +4,7 @@ It has following features:
 2. Login using a account.
 3. Sign Up.
  
- After doing the above process, we can create our bank accounts of persons.
+ After doing the above process, we can create bank accounts of people.
  It has following features:
  1. Create a bank account.
  2. Deposit amount.
